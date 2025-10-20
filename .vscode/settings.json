@@ -1,6 +1,6 @@
 {
   "search.exclude": {
-    ".git": true,
+    ".git": false,
     "out": true,
     "cache": true,
     "lib": true
